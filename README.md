@@ -6,7 +6,10 @@ The readings are stored to a sqlite3 database contained in a single file, and th
 Dependencies of the project:
 
   sqlite3
+  
   libpcrecpp
+  
   libbcm2835
+  
   libvfd (at github.com/pablogad/libvfd)
   
